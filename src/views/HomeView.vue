@@ -3,8 +3,8 @@
     
     <div class="flex-1">
       <img
-        class="object-cover w-full h-1/2 screen-h"
-        src="img/robot/map.png"
+        class="object-cover w-full h-2/3 screen-h"
+        src="/public/img/robot/map.png"
         alt="Robot Map"
       />
     </div>
