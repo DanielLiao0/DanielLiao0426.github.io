@@ -1,3 +1,10 @@
+##Main changes made in https://github.com/DanielLiao0426/DanielLiao0426.github.io/blob/master/src/views/HomeView.vue
+Live version in process...
+
+<img width="568" alt="Mobile View" src="https://github.com/DanielLiao0426/DanielLiao0426.github.io/assets/44012754/4bed851e-0d6b-4452-b6d0-9c7dcee38b78">
+
+<img width="1352" alt="Desktop View" src="https://github.com/DanielLiao0426/DanielLiao0426.github.io/assets/44012754/eff87986-7af2-4e0d-af53-fac07af8a611">
+
 # robot
 
 ## Project setup
