@@ -1,4 +1,5 @@
-## See dist
+## Uniring 人機介面，地圖和滑動選單
+## Navigate to dist branch
 ## Main changes made in https://github.com/DanielLiao0426/DanielLiao0426.github.io/blob/master/src/views/HomeView.vue
 ## Live version in process...
 
