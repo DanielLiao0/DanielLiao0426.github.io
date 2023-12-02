@@ -11,8 +11,8 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
-  routes
+  history: createWebHistory('/DanielLiao0426.github.io/'),
+  routes,
 })
 
 export default router
