@@ -4,7 +4,7 @@
     <div class="flex-1">
       <img
         class="object-cover w-full h-2/3 screen-h"
-        src="/img/robot/map.png"
+        src="../public/img/robot/map.png"
         alt="Robot Map"
       />
     </div>
