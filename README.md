@@ -1,6 +1,6 @@
 ## Uniring 人機介面，地圖和滑動選單
 ## Navigate to "dist" branch
-Main changes made in https://github.com/DanielLiao0426/DanielLiao0426.github.io/blob/master/src/views/HomeView.vue
+
 ## Live version in process...
 
 <img width="568" alt="Mobile View" src="https://github.com/DanielLiao0426/DanielLiao0426.github.io/assets/44012754/4bed851e-0d6b-4452-b6d0-9c7dcee38b78">
