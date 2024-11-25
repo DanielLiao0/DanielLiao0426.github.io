@@ -1,4 +1,4 @@
-## Uniring 人機介面，地圖和滑動選單
+## Uniring Robot-Human Interface
 ## Navigate to "dist" branch
 
 ## Live version in process...
